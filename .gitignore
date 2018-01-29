@@ -1,0 +1,5 @@
+// Name everything you don't want to be tracked --out
+*--out
+
+.idea/
+
